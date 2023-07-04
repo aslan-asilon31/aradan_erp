@@ -1,0 +1,9 @@
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\bin\Debug\aradan_erp.exe
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\bin\Debug\aradan_erp.pdb
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\bin\Debug\aradan_erp.xml
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.Resources.resources
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.vbproj.GenerateResource.Cache
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.exe
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.xml
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.pdb
+D:\.NET-PROGRAM\VB\aradan_erp\aradan_erp\obj\x86\Debug\aradan_erp.Welcome.resources
